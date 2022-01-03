@@ -1,0 +1,9 @@
+{
+    "name": "Starry",
+    "description": "Pastel, Light theme.",
+    "version": "1.0",
+    "author": "Tropical#8908, Hammock#3110",
+    "theme": "ATZ.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
